@@ -7,7 +7,7 @@
   "Socks5Password": "",
   "Servers": [
     {
-      "ListenInterface": "0.0.0.0",
+      "ListenInterface": "127.0.0.1",
       "ListenPort": 8182,
       "InitialTimeout": 3,
       "ReadTimeout": 60,
